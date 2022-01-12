@@ -5,7 +5,7 @@
 
 🚀 Aprofundando em Testes de Software e Python
 
-🌎 Linkedin: www.linkedin.com/in/felipe-alexandre-a22691110
+🌎 Apaixonado por tecnologia
 
 
 
@@ -26,8 +26,9 @@
   ##
   
   <div>
+  <a href="https://api.whatsapp.com/send?phone=5531996106401&text=Felipe" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="blank"></a>
   <a href = "mailto:felipe.fel@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-alexandre-a22691110" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
   </div>
   
+  ##
